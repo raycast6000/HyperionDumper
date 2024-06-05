@@ -1,2 +1,2 @@
 # Hyperion Dumper
-This shit doesn't work. I'm a fucking idiot, please don't use it.
+This thing is inefficient and does not serve its main purpose properly. I'm gonna fix this in the future.
